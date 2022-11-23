@@ -1,12 +1,14 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# Hungry Elephant Tutorial
+This is the README.md file.
+Change this file to show your intended audience what you want them to see.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+You can use **Markdown** syntax to format this file to do things like **bold** or *italicize* text.
+[Markdown basics](https://www.markdownguide.org/getting-started/)
+
+This particular repository is the starting template for the Hungry Elephant tutorial.
+
+[Part 1: Greenfoot Basics](https://youtu.be/zxaa3X0MihI)
+
+[Part 2: Game Enhancements](https://youtu.be/TwID9i0Ey6o)
+
+[Part 3: Final Touches](https://youtu.be/GT-eFwa4Abc)
