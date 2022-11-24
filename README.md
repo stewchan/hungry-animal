@@ -1,4 +1,4 @@
-# Hungry Elephant Tutorial
+# Hungry Animal Tutorial
 This is the README.md file.
 Change this file to show your intended audience what you want them to see.
 
